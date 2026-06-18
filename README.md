@@ -42,10 +42,7 @@ This document is the result of full static reverse engineering of the binary, cu
 
 ```
 undetek-v10.37/
-├── undetek-v10.37.exe       # Main loader executable (250KB, x86-64 PE)
-├── Install Guide.txt        # Official user install instructions
-├── Aimbot Guide.txt         # Official aimbot usage instructions
-├── VAC.txt                  # VAC notice from developers
+├── README.md                  # This article
 └── source/                  # Fully decompiled source (recovered by nulled_ash)
     ├── 00_MANIFEST.txt
     ├── 00_main_orchestrator.c
